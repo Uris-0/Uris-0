@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Uris-0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+Full+Stack+Developer;%E2%9A%9B%EF%B8%8F+React+%7C+JavaScript+%7C+HTML+%7C+CSS;%F0%9F%94%B7+C%23+%7C+PHP+%7C+SQL;%F0%9F%9A%80+Construyendo+cosas+chingonas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;C%23+%7C+PHP+%7C+SQL;Construyendo+cosas+chingonas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Sobre mí
+## <img src="https://api.iconify.design/mdi/account-circle.svg?color=%2300d4ff" width="28" align="center"/> Sobre mí
 
 ```csharp
 public class Uriel
@@ -26,13 +26,13 @@ public class Uriel
     public string[] Frontend => { "HTML", "CSS", "JavaScript", "React" };
     public string[] Backend  => { "C#", "PHP" };
     public string[] Database => { "SQL" };
-    public string Mood       => "☕ + 💻 = 🚀";
+    public string Mood       => "Coffee + Code = Deploy";
 }
 ```
 
 ---
 
-## ⚡ Tecnologías
+## <img src="https://api.iconify.design/mdi/lightning-bolt.svg?color=%2300d4ff" width="28" align="center"/> Tecnologías
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=4" height="70" />
@@ -52,7 +52,7 @@ public class Uriel
 
 ---
 
-## 📊 Estadísticas
+## <img src="https://api.iconify.design/mdi/chart-box.svg?color=%2300d4ff" width="28" align="center"/> Estadísticas
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Uris-0&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=1e90ff&text_color=c9d1d9&ring_color=00d4ff&count_private=true&locale=es" />
@@ -69,7 +69,7 @@ public class Uriel
 
 ---
 
-## 🏆 Trofeos
+## <img src="https://api.iconify.design/mdi/trophy.svg?color=%2300d4ff" width="28" align="center"/> Trofeos
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Uris-0&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
