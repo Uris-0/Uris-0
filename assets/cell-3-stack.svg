@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="76" viewBox="0 0 900 76"><style>
+text{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace;white-space:pre}
+.p{fill:#1e90ff;font-weight:700} .c{fill:#e6f1ff} .k{fill:#00d4ff} .s{fill:#7df9ff} .d{fill:#5b6b8c}
+.glow{filter:url(#g)}
+.blink{animation:b 1s steps(1) infinite} @keyframes b{50%{opacity:0}}
+.fade{animation:f 1s ease} @keyframes f{from{opacity:0}}
+.pulse{animation:pu 2.4s ease-in-out infinite} @keyframes pu{50%{opacity:.45}}
+</style><defs>
+<filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#1e90ff"/><stop offset="1" stop-color="#00d4ff"/></linearGradient>
+</defs><text x="8" y="37" class="p" font-size="15">In [3]:</text><rect x="96" y="10" width="796" height="42" rx="8" fill="#0d1526" stroke="#12305c"/><rect x="96" y="10" width="4" height="42" rx="2" fill="#00d4ff" class="glow"/><text x="116" y="37" font-size="16"><tspan class="c">uriel</tspan><tspan class="d">.</tspan><tspan class="k">stack</tspan><tspan class="d">()</tspan></text></svg>
